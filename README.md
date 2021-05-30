@@ -1,4 +1,4 @@
-# thymeleafdemo-CRUD
+# SpringBoot-Thymeleaf_CRUD
 Postgresql database used in this project.
 
 DATABASE SCRIPT:
