@@ -1,5 +1,5 @@
 # SpringBoot_Thymeleaf_CRUD
-Postgresql database used in this project.
+Postgresql database used in this application.
 
 DATABASE SCRIPT:
 
